@@ -1,6 +1,6 @@
 {
-  "name": "meshtastic-card",
-  "version": "1.0.0",
+  "name": "meshtastic-card-fork",
+  "version": "1.0.1",
   "description": "Meshtastic card for Home Assistant Lovelace UI",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "repository": "",
-  "author": "hamper",
+  "author": "hamper&gargomoma",
   "license": "ISC",
   "type": "module",
   "dependencies": {
